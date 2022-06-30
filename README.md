@@ -4,7 +4,7 @@
 
 ![Haxy's GitHub stats](https://image.noelshack.com/fichiers/2022/19/6/1652543114-infoprof.png)
 
-My name is **Léo**, I am 15 years old and I am a ``Beginner French Developer``.
+My name is **Léo**, I am 16 years old and I am a ``Beginner French Developer``.
 I am currently student in high school and I am learning developpement, I wish to come later developer.
 I know a few languages like, ``Java, CSS, HTML and Skript`` which is an under language of Java on **Minecraft**.
 
