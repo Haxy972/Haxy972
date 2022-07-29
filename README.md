@@ -21,7 +21,7 @@ I know a few languages like, ``Java, CSS, HTML and Skript`` which is an under la
 ![Haxy's GitHub stats](https://image.noelshack.com/fichiers/2022/19/6/1652543491-discord.png)
 
 ## You can talk with me with ``DISCORD``
-## My discord is: **Haxy#3002**
+## My discord is: **Léo#0003**
 
 
 # 🌴 Thanks  
