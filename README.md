@@ -1,6 +1,6 @@
 # 👋 Hello 
 
-![Haxy's GitHub stats](https://image.noelshack.com/fichiers/2022/19/6/1652542011-lgoo-1.png)
+
 
 ![Haxy's GitHub stats](https://image.noelshack.com/fichiers/2022/19/6/1652543114-infoprof.png)
 
