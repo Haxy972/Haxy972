@@ -18,3 +18,4 @@ I am working on **Minecraft**.
 
 
 
+![Haxy's GitHub stats](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
