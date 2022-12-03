@@ -1,9 +1,9 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Léo</h1>
 <h3 align="center">A Beginner Java Developper</h3>
-<img align="right" style="padding-top:50;" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haxy972&label=Profile%20views&color=0e75b6&style=flat" alt="haxy972"" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haxy972&label=Profile%20views&color=0e75b6&style=flat" alt="haxy972" /></p>
 
 <p align="left"> <a href="https://twitter.com/haxy972" target="blank"><img src="https://img.shields.io/twitter/follow/haxy972?logo=twitter&style=for-the-badge" alt="haxy972" /></a> </p>
 
