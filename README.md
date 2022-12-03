@@ -1,6 +1,7 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
-<h1 align="center">Hi 👋, I'm Léo</h1>
-<h3 align="center">A Beginner Java Developper</h3>
+![MasterHead](https://user-images.githubusercontent.com/49564283/205447820-fb4f5bd6-2e75-4fa1-a21b-15bf755dc26e.png)
+
+<h1 align="left">Hi 👋, I'm Léo</h1>
+<h3 align="left">A Beginner Java Developper</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haxy972&label=Profile%20views&color=0e75b6&style=flat" alt="haxy972" /></p>
