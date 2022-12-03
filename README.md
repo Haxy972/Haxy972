@@ -1,19 +1,29 @@
 # 👋 Hello 
+<h1 align="center">Hi 👋, I'm Léo</h1>
+<h3 align="center">A Beginner Java Developper</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haxy972&label=Profile%20views&color=0e75b6&style=flat" alt="haxy972" /> </p>
 
-My name is **Léo**, I am 16 years old and I am a ``Beginner French Developer``.
-I am currently student in high school and I am learning developpement, I wish to come later developer.
-I am working on **Minecraft**.
+<p align="left"> <a href="https://twitter.com/haxy972" target="blank"><img src="https://img.shields.io/twitter/follow/haxy972?logo=twitter&style=for-the-badge" alt="haxy972" /></a> </p>
 
-#  Environments
+- 🔭 I’m currently working on **@HistoriaMC**
 
-![Haxy's GitHub stats](https://camo.githubusercontent.com/a2fdb686bf3f4bd26f142a4b60bde87647ff18e340d8251e0aea3fa551bb568e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a494445412d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465)
-![Haxy's GitHub stats](https://camo.githubusercontent.com/529f3db66dcea87286a50a8bbb379acc5b6485805215e4cce5365aa43b7ddaca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d7472656c6c6f266c6f676f436f6c6f723d7768697465)
-![Haxy's GitHub stats](https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465)
+- 🌱 I’m currently learning **Jave and JavaScript**
 
-#  Languages
-![Haxy's GitHub stats](https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
+- 👨‍💻 All of my projects are available at [GitHub and SpigotMC](GitHub and SpigotMC)
 
+- 💬 Ask me about **Java**
+
+- ⚡ Fun fact **I am interested in everything**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/haxy972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haxy972" height="30" width="40" /></a>
+<a href="https://discord.gg/Léo#8189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Léo#8189" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
 ![Haxy's GitHub stats](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
