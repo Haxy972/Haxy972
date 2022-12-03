@@ -1,4 +1,3 @@
-# 👋 Hello 
 <h1 align="center">Hi 👋, I'm Léo</h1>
 <h3 align="center">A Beginner Java Developper</h3>
 
