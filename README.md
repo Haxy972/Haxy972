@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Léo</h1>
 <h3 align="left">A Beginner Java Developper</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Haxy972/Haxy972/assets/49564283/6577ee1c-0600-42f5-9753-ce3c11c55429">
+<img align="right" alt="Coding" width="400" src="https://github.com/Haxy972/Haxy972/assets/49564283/24cb096b-62ee-4ea9-bb3f-4e549eea568a">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haxy972&label=Profile%20views&color=0e75b6&style=flat" alt="haxy972" /></p>
 
