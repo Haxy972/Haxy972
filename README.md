@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **Discord > Léo#8189**
+- 📫 How to reach me **Discord > haxy972**
 
 - ⚡ Fun fact **I am interested in everything**
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,discord,linux,gcp,gitlab,gradle,maven,mysql,redis,py,vscode,grafana,idea,git,docker,cpp,arduino," />
+    <img src="https://skillicons.dev/icons?i=css,html,js,java,cpp,docker,maven,mysql,redis,grafana,prometheus,webstorm,idea,arduino" />
   </a>
 </p>
 
